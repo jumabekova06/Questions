@@ -31,7 +31,7 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 Будут выведены следующие выходные данные. Введите требуемое имя пользователя, электронную почту и пароль:
-по умолчанию почта speccy.rom@yandex.ru пароль: 123456
+
 ```bash
 Username (leave blank to use 'admin'): admin
 Email address: admin@admin.com
